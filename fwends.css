@@ -1,0 +1,108 @@
+
+body{
+	margin: 15px;
+	border: 10px #CBD0F5 solid;
+	padding: 15px;
+	background-color: #FFFFFF;
+	font-family: Impact;
+	color: #A6059B;
+}
+
+
+.header{
+	text-align: center;
+	color: #A6059B;
+	font-family: "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+	font-size: 90px;
+}
+
+h2 {
+	text-align: center;
+	text-transform: uppercase;
+	text-decoration: underline;
+}
+
+
+.font{
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", sans serif;
+
+}
+
+.Wa {
+	background: #FFFFFF;
+	width: 20%;
+	height: auto;
+	margin: 20px;
+	padding: 10px;
+	display: inline-block;
+	border-radius: 25px;
+	cursor: pointer;
+}
+
+.Toe {
+background: #FFFFFF;
+	width: 20%;
+	height: auto;
+	margin: 20px;
+	padding: 10px;
+	display: inline-block;
+	border-radius: 25px;
+	cursor: pointer;
+}
+
+.Twee {
+background: #FFFFFF;
+	width: 20%;
+	height: auto;
+	margin: 20px;
+	padding: 10px;
+	display: inline-block;
+	border-radius: 25px;
+	cursor: pointer;
+}
+
+.Foy {
+	background: #FFFFFF;
+	width: 20%;
+	height: auto;
+	margin: 20px;
+	padding: 10px;
+	display: inline-block;
+	border-radius: 25px;
+	cursor: pointer;
+}
+
+.Feev {
+background: #FFFFFF;
+	width: 20%;
+	height: auto;
+	margin: 20px;
+	padding: 10px;
+	display: inline-block;
+	border-radius: 25px;
+	cursor: pointer;
+}
+
+.Seeks {
+	background: #FFFFFF;
+	width: 20%;
+	height: auto;
+	margin: 20px;
+	padding: 10px;
+	display: inline-block;
+	border-radius: 25px;
+	cursor: pointer;
+}
+
+p {
+	text-transform: uppercase;
+	padding: 10px;
+	display: inline-block;
+	border-radius: 25px;
+
+}
+
+.press{
+	box-shadow: 1px 1px 1px white;
+	-webkit-transform:translate(5px,5px)
+}
